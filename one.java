@@ -35,7 +35,7 @@ public class one{
 					
 					}
 				}
-            for(int i=tot-1;i>=0;i--){
+            for(int i=0;i<tot;i++){
 				
 				
 				for(int j=a[i].length-1;j>=0;j--){
